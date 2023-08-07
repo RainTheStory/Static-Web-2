@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-image: url(https://wallpapercrafter.com/sizes/3840x2160/143617-anime-girls-original-characters-concept-art-cyberpunk-cyborg-roller-skates-rollerskates-jacket-hoods-guitar-looking-away-science-fiction-fantasy-girl-minimalism-simple.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    position: absolute;
+    top: 0px;
+    padding: 0px 20%;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    left: 0;
+    display: flex;
+
+}
+
+.navbar a {
+    font-weight: 600;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color:black;
+    text-decoration: underline;
+}
+
+.logo {
+    position: absolute;
+    padding: 20px 10%;
+    font-size: 50px;
+    font-weight: 600;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+#bar {
+    padding: 10px 2%;
+    margin-top: 12%;
+    width: 100%;
+    color:aqua
+   
+}
+
+#bar:hover {
+    color: black
+}
+
+.liar {
+    position: relative;
+    max-height: 73%;
+    max-width: 65%;
+}
+
+
+.article {
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+
+.title {
+    margin-left: 61.5%;
+    margin-top: -66%;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.description {
+    margin-top: 15%;
+    margin-left: 55%;
+    color: whitesmoke;
+    font-size: 10px;
+    position: relative;
+}
+
+
+#first {
+    margin-left: 10%;
+    margin-top: -3%;
+    background-color: violet;
+    background-image: url(https://img.anili.st/media/131863);
+}
+
+#second {
+    margin-left: 10%;
+    margin-top: 1%;
+    background-color: violet;
+    background-image: url(https://img.anili.st/media/98314);
+}
+
+#third {
+    margin-left: 32%;
+    margin-top: -33.5%;
+    background-color: violet;
+    background-image: url(https://img.anili.st/media/11111);
+
+}
+
+#four {
+    margin-left: 32%;
+    margin-top: 1%;
+    background-color: violet;
+    background-image: url(https://img.anili.st/media/14345);
+}
+
+#five {
+    margin-left: 54%;
+    margin-top: -33.5%;
+    background-color: violet;
+    background-image: url(https://img.anili.st/media/10087);
+}
+
+#six {
+    margin-left: 54%;
+    margin-top: 1%;
+    background-color: violet;
+    background-image: url(https://img.anili.st/media/14467);
+}
+
+.move {
+    padding: 35px 35%;
+    
+}
+
+.move a{
+    color: whitesmoke;
+    display: inline;
+    font-size: 20px;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.move a:hover {
+    color: black;
+    text-decoration: overline;
+}
+
+.fa-heart{
+    padding: 35px 70%;
+    color: whitesmoke;
+}
+
+.fa-heart:hover {
+    color: pink;
+}
+
+.fa-heart:active{
+    color: red;
+}
+
+#follow {
+    text-decoration: none;
+    color:white;
+}
+
+.fol {
+    margin-top: -1%;
+    background-color: rgb(10, 192, 243);
+    margin-left: 70%;
+    height: 19px;
+    width: fit-content;
+    border-radius: 2px;
+}
+
+.fa-dove {
+    color:whitesmoke
+}
+
+.fol:hover {
+    background-color: aquamarine;
+}
